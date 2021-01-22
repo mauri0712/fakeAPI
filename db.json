@@ -1,0 +1,51 @@
+{
+  "pengguna": [
+    {
+      "id": 1,
+      "nama": "suryanto",
+      "tanggalLahir": "18-08-1999",
+      "alamat": {
+        "kota": "jakarta",
+        "RT/RW": "006/009",
+        "kel/Desa": "durian"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "mastanto",
+      "tanggalLahir": "12-02-1996",
+      "alamat": {
+        "kota": "surabay",
+        "RT/RW": "006/003",
+        "kel/Desa": "apel"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "ryanto",
+      "tanggalLahir": "20-06-1998",
+      "alamat": {
+        "kota": "manado",
+        "RT/RW": "009/001",
+        "kel/Desa": "anggur"
+      }
+    }
+  ],
+  "company": [
+    {
+      "id": 1,
+      "name-company": "microsoft",
+      "penggunaId": 1
+    },
+    {
+      "id": 2,
+      "name-company": "oracle",
+      "penggunaId": 2
+    },
+    {
+      "id": 3,
+      "name-company": "Adobbe",
+      "penggunaId": 3
+    }
+  ]
+}
